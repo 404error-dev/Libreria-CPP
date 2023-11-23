@@ -1,3 +1,6 @@
+#ifndef SIMONE_H
+#define SIMONE_H
+
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
